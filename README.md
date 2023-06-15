@@ -18,10 +18,10 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
 </a></p>
 
 # GIT
-git init
-git add *.*
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/vkcode7/langchaindocs.git
-git push -u origin main
-git commit -am README.md
+1. git init
+2. git add *.*
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin https://github.com/vkcode7/langchaindocs.git
+6. git push -u origin main
+7. git commit -am README.md
