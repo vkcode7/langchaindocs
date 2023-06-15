@@ -16,3 +16,11 @@ This project highlights how to leverage a ChromaDB vectorstore in a Langchain pi
 # Other References 🔗
 <p>The main LG Agent used:<a href="https://python.langchain.com/en/latest/modules/agents/toolkits/examples/vectorstore.html">Langchain VectorStore Agents
 </a></p>
+
+# GIT
+git init
+git add *.*
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/vkcode7/langchaindocs.git
+git push -u origin main
